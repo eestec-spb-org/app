@@ -1,0 +1,6 @@
+[submodule "eestec_web"]
+	path = eestec_web
+	url = git@github.com:eestec-spb-org/eestec_web.git
+[submodule "eestec-backend"]
+	path = eestec-backend
+	url = git@github.com:eestec-spb-org/eestec-backend.git
